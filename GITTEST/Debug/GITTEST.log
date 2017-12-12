@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Linking with Opencv 3.0...
+e:\opencv3.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+e:\opencv3.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+e:\opencv3.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  GITTESTDlg.cpp
+  GITTEST.cpp
+  Generating Code...
+  GITTEST.vcxproj -> E:\0_JSKIM_DATA\0_연구\GIT_TEST\GITTEST\PSD\Debug\GITTEST.exe
