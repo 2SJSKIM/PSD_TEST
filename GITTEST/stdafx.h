@@ -50,4 +50,5 @@ using namespace cv;
 #endif
 #endif
 
+#pragma comment(linker, "/entry:WinMainCRTStartup /subsystem:console")
 
